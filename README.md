@@ -5,7 +5,6 @@ I'm Roee, a practical engineer diving into the world of coding with a focus on P
 ## About Me
 
 - 🛠️ As a practical engineer, I bring a hands-on approach to coding.
-- 🌱 I'm currently exploring the vast possibilities of Python programming.
 - 👩‍💻 I'm open to learning more and expanding my coding horizons.
 
 - ## Python Journey
